@@ -1,7 +1,0 @@
-<<<<<<< HEAD
-Juan Andrés Jimenez Vélez
-18
-Espero aprobar la materia y obtener los conocimientos necesaripos para continuar con mi carrera
-=======
-Se pudo crear un commit porque la carpeta al tener el archivo 'respuesta' ya no está vacía y github lo detecta como un cambio.
->>>>>>> c26eb77e7bb34144d2d6dc681b64242851d6f517
