@@ -1,0 +1,1 @@
+es posible crear un commit y subir la carpeta porque esta al tener el archivo 'respuesta' ya no está vacía y git lo detecta como un cambio.
