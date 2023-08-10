@@ -1,0 +1,1 @@
+Se pudo crear un commit porque la carpeta al tener el archivo 'respuesta' ya no está vacía y github lo detecta como un cambio.
