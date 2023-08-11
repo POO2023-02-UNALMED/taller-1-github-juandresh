@@ -3,5 +3,5 @@ Juan Andrés Jimenez Vélez
 Espero aprobar la materia y obtener los conocimientos necesaripos para continuar con mi carrera
 es posible crear un commit y subir la carpeta porque esta al tener el archivo 'respuesta' ya no está vacía y git lo detecta como un cambio.
 
-Es importante tener cuidado con modificar dos archivos al mismo tiempo porque estas modificaciones al no ser iguales generan un cnflicto ya que github no puede decidir cual modificación temer en cuenta para
+Es importante tener cuidado con modificar dos archivos al mismo tiempo porque estas modificaciones al no ser iguales generan un cnflicto ya que github no puede decidir cual modificación tener en cuenta para
 agregarla en el rpositorio. 
